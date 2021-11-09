@@ -22,7 +22,7 @@ Réalisez le `.cpp` de la classe `CLcalcul` de manière à faire fonctionner le 
 ## Partie 3
 
 
-À faire en classe :)
+Lisez le code fourni et expliquez les différents types de relations exprimées entre la classe `A` et la  classe  `B`. 
 
 
 ## Partie 4 
