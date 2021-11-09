@@ -50,4 +50,4 @@ diagramme de classe, de séquence et d’activité.
 
 
 Une idée de programme :
-* Un calculateur des émissions de CO2 pour les transports : [Calculateur ADEME](https://agirpourlatransition.ademe.fr/particuliers/bureau/deplacements/calculer-emissions-carbone-trajets)
+* Un calculateur des émissions de CO2 pour les transports : [Calculateur ADEME](https://monimpacttransport.fr)
