@@ -19,27 +19,7 @@ Instanciez deux objets de type voiture dans le programme principal en utilisant 
 Réalisez le `.cpp` de la classe `CLcalcul` de manière à faire fonctionner le programme.
 
 
-## Partie 3
-
-
-Lisez le code fourni et expliquez les différents types de relations exprimées entre la classe `A` et la  classe  `B`. 
-
-
-## Partie 4 
-
-
-Le groupe de processus 1 propose les services `gpcs1s1` et `gpcs1s2`. Le groupe de processus 2 propose le service `gpcs2s1`.
-
-
-* Le service `gpcs1s1` utilise les composants `c1` et `c2`
-* Le service `gpcs1s2` utilise le composant `c3`
-* Le service `gpcs2s1` utilise les composants `c1` et `c3`
-
-
-Codez une application qui utilise les services offerts par les groupes de processus.
-
-
-## Partie 5 :
+## Partie 3 :
 
 
 1. Réalisez un programme de votre choix. Ce programme doit comporter un `main`, une classe de type service, deux classes de type composant.
@@ -51,3 +31,9 @@ diagramme de classe, de séquence et d’activité.
 
 Une idée de programme :
 * Un calculateur des émissions de CO2 pour les transports : [Calculateur ADEME](https://monimpacttransport.fr)
+
+## Partie 4:
+
+1. Afin de modéliser la fraction, on définit la classe `Fraction` avec deux attributs : `numerateur`, et `denominateur`. La classe doit permettre de faire les quatre opérations principales : Addition/Soustraction/Multiplication/Division de deux fractions. Implémentez la classe et les méthodes associées.
+2. Réalisez le diagramme de classe.
+3. Réalisez le diagramme de séquence pour les quatre opérations.
