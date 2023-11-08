@@ -24,7 +24,7 @@ Dans cette partie nous allons créer notre premier jeu vidéo. Bienvenue dans **
 
 Dans un premier temps, notre jeu sera assez simple (basique quoi), il sera composé de deux types de personnages : les Héros et les Créatures. Ces personnages s'affronteront lors de combats sans merci.
 
-Pour vous aider, nous avons retrouvé dans de vieux parchemins les diagrammes de classe et de séquence suivant :
+Pour vous aider, nous avons retrouvé dans de vieux parchemins les diagrammes de classe et de séquence suivants :
 
 ![Diagramme de classe](Partie4/cesi_and_dragons.png)
 ![Diagramme de séquence](Partie4/cesi_and_dragons_seq.png)
