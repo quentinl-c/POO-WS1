@@ -2,7 +2,7 @@
 
 ## Partie 1
 
-Créez une classe `Voiture` qui propose une méthode `void demarer()`. Cette méthode affichera le message `VROUMMMM !` lorsqu'elle sera appelée.
+Créez une classe `Voiture` qui propose une méthode `void demarrer()`. Cette méthode affichera le message `VROUMMMM !` lorsqu'elle sera appelée.
 
 Instanciez deux objets de type voiture dans le programme principal en utilisant l'allocation statique puis l'allocation dynamique.
 
